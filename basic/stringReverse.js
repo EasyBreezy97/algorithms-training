@@ -5,4 +5,5 @@ const stringReverse = str => {
   }
   console.log(reversedStr);
 };
+
 stringReverse("hello");
